@@ -1,0 +1,26 @@
+{
+  "name": "webpack-init",
+  "version": "1.0.0",
+  "description": "webpack脚手架",
+  "main": "null",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julienedies/webpack-init.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "julienedies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julienedies/webpack-init/issues"
+  },
+  "homepage": "https://github.com/julienedies/webpack-init#readme",
+  "devDependencies": {
+    "webpack": "^4.27.1"
+  }
+}
